@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 <br>🎓 BCA student at Dr. Virendra Swaroop group of Institute <br>🌱 Currently learning Web Development, AI, and Machine Learning<br>🧠 Focused on building strong fundamentals<br>🎯 Goal: Become a confident developer and contribute to Open Source 
 
